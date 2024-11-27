@@ -69,12 +69,17 @@ No installation needed
 
 <a id="usage"></a>
 ## Usage
-To run the app please visit:
-<LINK>
+To run the app please visit: 
+
+[Candidate Search](https://candidat-search-skyskae.netlify.app/)
 
 <a id="Visuals"></a>
 ## Visuals
-[Video Walkthrough Link](FILL)
+<div style="margin-left: 40px;">
+  Demonstration of the application's desktop interface:<br/>
+  <img src="./assets/README-Desktop-demo.gif" alt="Desktop demonstration video" width="550"/>
+</div>
+<br/>
 
 <a id="tests"></a>
 ## Tests
